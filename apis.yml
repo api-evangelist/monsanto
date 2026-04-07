@@ -1,7 +1,11 @@
 aid: monsanto
-url: https://raw.githubusercontent.com/api-evangelist/monsanto/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/monsanto/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.monsanto.com
+description: >-
+  Monsanto was a global agricultural products company that produced seeds, biotechnology
+  trait products, and herbicides before being acquired by Bayer.
