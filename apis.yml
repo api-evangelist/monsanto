@@ -18,6 +18,8 @@ url: https://raw.githubusercontent.com/api-evangelist/monsanto/refs/heads/main/a
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/monsanto-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/MonsantoCo
   - type: LinkedIn
