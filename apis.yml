@@ -5,7 +5,18 @@ description: >-
   products, and herbicides before being acquired by Bayer AG in 2018. Operations and brands have
   since been integrated into the Bayer Crop Science division.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/monsanto.png
 tags:
   - Agriculture
   - Biotechnology
