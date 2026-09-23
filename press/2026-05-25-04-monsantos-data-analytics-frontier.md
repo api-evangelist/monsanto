@@ -1,7 +1,9 @@
 ---
 title: Monsanto's “Data + Analytics” Frontier
 url: https://medium.com/@nvenkatraman/monsantos-data-analytics-frontier-69ca9108bc8b
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Monsanto" press release artificial intelligence'
 position: 4
 source: serpapi-google

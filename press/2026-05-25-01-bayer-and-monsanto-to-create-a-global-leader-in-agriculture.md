@@ -1,7 +1,9 @@
 ---
 title: Bayer and Monsanto to Create a Global Leader in Agriculture
 url: https://www.prnewswire.com/news-releases/bayer-and-monsanto-to-create-a-global-leader-in-agriculture-300327863.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Monsanto" press release artificial intelligence'
 position: 1
 source: serpapi-google
